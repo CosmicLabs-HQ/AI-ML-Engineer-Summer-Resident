@@ -40,6 +40,9 @@ Join us to accelerate AI where it matters—on real hardware, under real constra
 
 **Email the following:**
 
+**Subject Header:**
+- AI/ML Summer Resident / [YOUR NAME]
+
 **In the email body:**
 - Your name  
 - Why you're interested in the role  
